@@ -1,0 +1,168 @@
+[
+    [
+        {
+            "username": "Mr.Reviewer",
+            "password": "Private123",
+            "email": "Reviwer@mail.com",
+            "role": 2
+        }, 
+        {
+            "username": "MissFoodie",
+            "password": "NonOfYourBeeswax123",
+            "email": "Foodie@mail.com",
+            "role": 2 
+        }, 
+        {
+            "username": "FoodIsMyPassion",
+            "password": "Food123",
+            "email": "Mmm@mail.com",
+            "role": 2
+        }, 
+        {
+            "username": "FoodSlave",
+            "password": "CouldAlwaysEat1",
+            "email": "SlaveForFood@mail.com",
+            "role": 2
+        }, 
+        {
+            "username": "MrResaturantOwner", 
+            "password": "MyResaturantRocks1",
+            "email": "Luigi@pizzahouse.com",
+            "role": 1
+        }, 
+        {
+            "username": "TheOwner",
+            "password": "AsianForLife",
+            "email": "Lee@litleasia.com",
+            "role": 1
+        }, 
+        {
+            "username": "BungiBurger",
+            "password": "ForMyEyesOnly",
+            "email": "Bungi@burgerjoint.com",
+            "role": 1
+        }, 
+        {
+            "username": "MrAsia",
+            "password": "Secret",
+            "email": "mrasia@asiandinner.com",
+            "role": 1
+        }, 
+        {
+            "username": "MrSushi",
+            "password": "NotVisible",
+            "email": "mrsushi@sushihouse.com",
+            "role": 1
+        }, 
+        {
+            "username": "MrPasta",
+            "password": "PastaLove",
+            "email": "mrpasta@pastaplace.com",
+            "role": 1
+        }, 
+        {
+            "username": "MrIndia",
+            "password": "LoveIndia",
+            "email": "mrindia@indianpalace.com",
+            "role": 1
+        }
+    ],
+    [
+        {
+            "name": "Pizza House",
+            "address": "Kongens gate 21, 0153 Oslo",
+            "description": "A family restaurant serving Pizza and Italian food",
+            "category": "Italian",
+            "user_id": 5
+        }, 
+        {
+            "name": "Little Asia",
+            "address": "Dronningens gate 16, 0152 Oslo",
+            "description": "A family restaurant serving Asian food",
+            "category": "Asian",
+            "user_id": 6
+        }, 
+        {
+            "name": "Burger Joint",
+            "address": "Prinsens gate 8, 0152 Oslo",
+            "description": "It's all about burgers",
+            "category": "American",
+            "user_id": 7
+        }, 
+        {
+            "name": "Asian Dinner",
+            "address": "Prinsens gate 18, 0152 Oslo",
+            "description": "Fine dinning",
+            "category": "Asian",
+            "user_id": 8
+        }, 
+        {
+            "name": "Sushi House",
+            "address": "Karl Johans gate 45, 0162 Oslo",
+            "description": "Sushi",
+            "category": "Asian",
+            "user_id": 9
+        }, 
+        {
+            "name": "Burger Palace",
+            "address": "Kirkegata 25, 0153 Oslo",
+            "description": "Nice burges with decent meat",
+            "category": "American",
+            "user_id": 7
+        }, 
+        {
+            "name": "Sushi and wok",
+            "address": "Storgata 2-6, 0155 Oslo",
+            "description": "Oslo's best sushi and wok",
+            "category": "Asian",
+            "user_id": 9
+        }
+    ],
+    [
+        {}
+    ],
+    [
+        {
+            "restaurant_id": 1,
+            "user_id": 1,
+            "rating": 5,
+            "reviewText": "Delicious pizza for a reasonable price! Recommended"
+        },
+        {
+            "restaurant_id": 2,
+            "user_id": 4,
+            "rating": 3,
+            "reviewText": "OK food. But to pricey."
+        },
+        {
+            "restaurant_id": 3,
+            "user_id": 4,
+            "rating": 1,
+            "reviewText": "Got food poisoned.. Stay away!"
+        },
+        {
+            "restaurant_id": 4,
+            "user_id": 4,
+            "rating": 3,
+            "reviewText": "Fantastic customer service, but a bit overpriced. Overall, it's a good place to eat in the weekend."
+        },
+        {
+            "restaurant_id": 5,
+            "user_id": 1,
+            "rating": 4.5,
+            "reviewText": "Best sushi ever. Not too expensive, but the downside is you can only take-away."
+        },
+        {
+            "restaurant_id": 6,
+            "user_id": 2,
+            "rating": 3,
+            "reviewText": "Nice pasta place to eat!"
+        },
+        {
+            "restaurant_id": 3,
+            "user_id": 3,
+            "rating": 3,
+            "reviewText": "Good burger for small prices."
+        }
+    ]
+]
